@@ -169,3 +169,13 @@ _Create a PartyRock app that helps you learn cloud concepts._
 Share your App and refine it continuously.
 
 ### ⛔ End of Building Tutorial⛔
+
+---
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [English in the Cloud](https://ntombizakhona.medium.com/english-in-the-cloud-a312c095acc9?postPublishedType=repub)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**24 October 2025**
