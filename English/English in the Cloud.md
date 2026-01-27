@@ -408,7 +408,8 @@ Finally, let me emphasize: **_I’m not suggesting you abandon your native langu
 
 I just want you to think in English.
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WCUGknCqtp3W3scTVFXj9g@2x.jpeg)
+
+---
 
 
 # The Original
