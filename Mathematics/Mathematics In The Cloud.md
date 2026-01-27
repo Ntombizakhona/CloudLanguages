@@ -469,7 +469,7 @@ Problem: **_“Set up AWS account and deploy a static website_**”
 
 ```
 ## Task Decomposition
-``````
+```
 ### Main Goal: Deploy Static Website on AWS#### Phase 1: AWS Account Setup (30 minutes)
 - [ ] Create AWS account
 - [ ] Set up billing alerts
