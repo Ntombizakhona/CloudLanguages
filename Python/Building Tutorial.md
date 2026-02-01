@@ -1770,3 +1770,15 @@ Built with HTML, CSS, and JavaScript
 *   Check Python terminal for the logged message
 
 ### ⛔ End of Building Tutorial⛔
+
+---
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Python in the Cloud](https://medium.com/@ntombizakhona/python-in-the-cloud-1462f61e3293)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**01 February 2026**
