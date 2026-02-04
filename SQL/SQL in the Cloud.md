@@ -583,7 +583,7 @@ ORDER BY posts_written DESC;
 │   Returns: 1, 2       Returns: 1, 2, 3    Returns: 1, 2, 4  Returns all │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
-``````
+
 -- INNER JOIN: Only matching records
 SELECT * FROM users u
 INNER JOIN orders o ON u.id = o.user_id;
@@ -852,7 +852,7 @@ Portfolio Journey:
 Progress: 9/10 skills (90% of foundational languages!)
 ```
 
-### Fina Thoughts
+### Final Thoughts
 
 **You’ve Added Memory to Your Application**
 
