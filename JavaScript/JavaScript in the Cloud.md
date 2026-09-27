@@ -827,18 +827,6 @@ cost = (rate × usage) + baseFee // y = mx + c
 // Step 1, Step 2, Step 3... → Deployment algorithm
 ```
 
-Portfolio Project Progress Tracker
-----------------------------------
-
-✅ **Day 1:** Communication — _Technical writing and documentation_
-✅ **Day 2:** Mathematics — _Logic, algorithms, problem-solving_
-✅ **Day 3**: HTML — _Web structure and semantic markup_
-✅ **Day 4:** CSS — _Professional styling and responsive design_
-✅ **Day 5**: JavaScript — _Interactivity and dynamic behavior_
-⬜ **Day 6–7:** Python — _Backend logic, automation, AWS integration_
-⬜ **Day 8–9:** Git — _Version control and GitHub deployment_
-⬜ **Day 10:** Linux — _Command line and cloud servers_
-
 ### Final Thoughts
 
 1.  **JavaScript brings websites to life:** It’s the only language that runs in browsers
