@@ -778,80 +778,6 @@ Caching and sessions. Redis excels at storing session data, rate limiting counte
 
 Most production systems use both. SQL serves as the source of truth for critical business data, while NoSQL handles specialized access patterns. A blog might store posts in PostgreSQL but cache rendered HTML in Redis and index content in Elasticsearch for full-text search.
 
-10 | Update Your Learning Journal
----------------------------------
-
-```
-## Day 9: SQL - The Language of Data
-### What I Learned:
-- SQL is the universal language for relational databases
-- Cloud providers offer managed database services (RDS, Cloud SQL)
-- CRUD operations: Create, Read, Update, Delete
-- Database design with primary keys, foreign keys, and indexes
-- JOINs to combine data from related tables
-- Query optimization with EXPLAIN and proper indexing
-- Security with user permissions and prepared statements
-### Database Skills Mastered:
-- Creating databases and tables with proper schemas
-- Writing INSERT, SELECT, UPDATE, DELETE queries
-- Using JOINs (INNER, LEFT, RIGHT) for related data
-- Aggregations (COUNT, SUM, AVG, GROUP BY)
-- Indexing strategies for performance
-- Connection pooling in application code
-### Portfolio Database Added:
-- ✅ Installed MySQL on Linux server
-- ✅ Created portfolio_db database
-- ✅ Added contacts table for form submissions
-- ✅ Added page_views table for analytics
-- ✅ Updated Flask API with database integration
-- ✅ Contact form now saves to database!
-### Key SQL Concepts:
-1. **ACID Compliance**: Transactions are Atomic, Consistent, Isolated, Durable
-2. **Normalization**: Organizing data to reduce redundancy
-3. **Indexes**: Speed up reads, but slow down writes
-4. **Foreign Keys**: Enforce relationships between tables
-5. **Prepared Statements**: Prevent SQL injection attacks
-### Challenges Faced:
-- Initially confused about JOIN types
-  - Learned: Draw Venn diagrams to understand what each returns
-- Query was slow on large dataset
-  - Fixed: Added appropriate indexes, used EXPLAIN
-- SQL injection vulnerability
-  - Fixed: Always use parameterized queries
-### My Portfolio Now Has:
-- ✅ Frontend (HTML, CSS, JavaScript)
-- ✅ Backend (Python Flask API)
-- ✅ Version Control (Git + GitHub)
-- ✅ Cloud Hosting (Linux + Nginx)
-- ✅ Database (MySQL) - NEW!
-- ⬜ Container Orchestration (Kubernetes)
-### Next Steps:
-Learn Kubernetes for container orchestration and scaling
-```
-
-Portfolio Project Progress Tracker
-----------------------------------
-
-✅ Completed: English, Mathematics, HTML, CSS, JavaScript, Python, Git, Linux, SQL
-⬜ Next: Kubernetes for container orchestration
-
-```
-Portfolio Journey:
-┌────────────────────────────────────────────────────────────────┐
-│ ✅ English      → Technical communication                      │
-│ ✅ Mathematics  → Logic and problem-solving                    │
-│ ✅ HTML         → Portfolio structure                          │
-│ ✅ CSS          → Professional styling                         │
-│ ✅ JavaScript   → Interactive features                         │
-│ ✅ Python       → Backend API                                  │
-│ ✅ Git          → Version control & GitHub                     │
-│ ✅ Linux        → Deployed to the cloud                        │
-│ ✅ SQL          → DATABASE INTEGRATION! 🎉                     │
-│ ⬜ Kubernetes   → Container orchestration (next!)              │
-└────────────────────────────────────────────────────────────────┘
-Progress: 9/10 skills (90% of foundational languages!)
-```
-
 ### Final Thoughts
 
 **You’ve Added Memory to Your Application**
@@ -877,7 +803,38 @@ Not a tutorial project. Not a localhost demo. A real application that anyone in 
 
 That’s not nothing. That’s everything.
 
-![SQL — The Structured Query Language](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hL9QjJNH1TsM1vzeeq3u2Q.png)
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+✅ **04 — CSS:** Styling And Responsive Design
+
+✅ **05 — JavaScript:** Interactive Web Development
+
+✅ **06 — Python:** Backend Logic And Cloud Automation
+
+✅ **07 — Git:** Version Control And Deployment
+
+✅ **08 — Linux:** The Cloud Operating System
+
+✅ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
+
+---
 
 Additional Resources
 --------------------
