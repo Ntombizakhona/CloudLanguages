@@ -798,131 +798,6 @@ body main section.skills div.skill-list article.skill-item h3 {
 }
 ```
 
-10 | Update Your Learning Journal
----------------------------------
-
-```
-## Day 4: CSS - Styling and Design
-### Date: [Today's Date]
-### What I Learned:
-#### CSS Fundamentals:
-- **Syntax:** selector { property: value; }
-- **Selectors:** Element, class (.class), ID (#id)
-- **Specificity:** ID (100) > Class (10) > Element (1)
-- **Cascade:** Later styles override earlier ones
-#### Box Model Mastery:
-- Content → Padding → Border → Margin
-- `box-sizing: border-box` makes width calculations easier
-- Margin auto centers block elements
-- Padding creates breathing room inside elements
-#### Layout Techniques:
-- **Flexbox:** Perfect for navigation bars and card layouts
-  - `justify-content` for horizontal alignment
-  - `align-items` for vertical alignment
-  - `gap` for spacing between items
-- **Responsive design:** Mobile-first approach with media queries
-  - Mobile: 0-767px
-  - Tablet: 768-1023px
-  - Desktop: 1024px+
-#### Visual Polish:
-- **Colors:** Used CSS variables for consistent theme
-- **Typography:** Established clear heading hierarchy
-- **Shadows:** Added depth with `box-shadow`
-- **Gradients:** Modern backgrounds with `linear-gradient`
-- **Transitions:** Smooth hover effects with `transition`
-### Portfolio Transformation:
-**Before CSS:**
-- Plain black text on white background
-- Default Times New Roman font
-- No spacing or layout
-- Not mobile-friendly
-**After CSS:**
-- ✅ Professional gradient hero section
-- ✅ Fixed navigation that stays on scroll
-- ✅ Hover animations on all interactive elements
-- ✅ Responsive layout (mobile, tablet, desktop)
-- ✅ Cohesive color scheme (primary, secondary, accent)
-- ✅ Modern typography with proper hierarchy
-- ✅ Progress bars with gradient fills
-- ✅ Card-based layout with shadows
-- ✅ Professional contact form styling
-### CSS Properties Used:
-- Layout: `display`, `flex`, `justify-content`, `align-items`, `gap`
-- Box model: `margin`, `padding`, `border`, `box-sizing`
-- Typography: `font-family`, `font-size`, `font-weight`, `line-height`
-- Colors: `color`, `background`, `linear-gradient`
-- Effects: `box-shadow`, `border-radius`, `transition`, `transform`
-- Responsive: `@media`, `max-width`, `min-width`
-### Challenges Faced:
-- Initially confused about when padding vs margin
-  - Learned: Padding = inside, Margin = outside
-- Struggled with Flexbox alignment
-  - Practiced: justify-content (horizontal), align-items (vertical)
-- Media queries were tricky
-  - Solution: Mobile-first approach, test in browser DevTools
-### Aha! Moments:
-- 💡 CSS variables make theme changes incredibly easy!
-- 💡 Flexbox solves layout problems that used to be hard
-- 💡 Mobile-first design is easier than desktop-first
-- 💡 Small details (shadows, transitions) make huge visual impact
-- 💡 Good CSS organization prevents chaos in large files
-### Real-World Connections:
-- Cloud dashboards use these exact CSS techniques
-- AWS Console = Flexbox layouts + responsive design
-- Professional web apps = Careful color schemes + typography
-- Every SaaS product I've used = These styling patterns
-### Testing Completed:
-- ✅ Validated CSS with W3C CSS Validator - 0 errors
-- ✅ Tested in Chrome, Firefox, Safari
-- ✅ Responsive testing: iPhone SE, iPad, Desktop (1920px)
-- ✅ Accessibility: Color contrast passes WCAG AA standards
-- ✅ Performance: CSS file size 12KB (optimized)
-### Metrics:
-- **Lines of CSS:** ~500
-- **CSS properties used:** 50+ different properties
-- **Responsive breakpoints:** 3 (mobile, tablet, desktop)
-- **Color scheme:** 8 carefully chosen colors
-- **Time invested:** 3.5 hours
-### Before/After Comparison:
-**HTML Only (Day 3):**
-- Basic structure ✓
-- Content organized ✓
-- Semantic markup ✓
-- Visual appeal ✗
-- Professional look ✗
-**HTML + CSS (Day 4):**
-- Basic structure ✓
-- Content organized ✓
-- Semantic markup ✓
-- Visual appeal ✓✓✓
-- Professional look ✓✓✓
-### Next Steps:
-✅ Completed: HTML structure + CSS styling
-⏳ Next: JavaScript for interactivity
-📅 Goals:
-  - Smooth scroll navigation
-  - Animated progress bars on scroll
-  - Form validation
-  - Dynamic skill percentage updates
-### Questions for Further Research:
-- How do CSS preprocessors (Sass/Less) improve workflow?
-- What are CSS Grid advantages over Flexbox?
-- How to optimize CSS for production (minification)?
-- What are CSS-in-JS solutions (styled-components)?
-### Portfolio Status:
-- **Structure:** ✅ Complete (HTML)
-- **Styling:** ✅ Complete (CSS)
-- **Interactivity:** ⏳ Next (JavaScript)
-- **Deployment:** 📅 Upcoming (AWS S3)
-### Daily Reflection:
-Today was transformative! I took a plain, black-and-white HTML page and turned it into something I'm genuinely proud to show people. The portfolio went from "college project" to "junior developer portfolio" in one day. CSS is incredibly powerful—small changes like adding shadows or transitions make everything feel premium. I understand now why companies hire designers—this stuff matters! The responsive design was challenging, but seeing my site work perfectly on mobile was so satisfying. Can't wait to add JavaScript interactivity tomorrow. 🎨🚀### Progress Summary:
-- **Cumulative learning time:** 10.5 hours
-- **Days completed:** 4/60
-- **Skills mastered:** 4/11 (English, Math, HTML, CSS)
-- **Percentage complete:** 36% of foundational languages
-- **Momentum:** Accelerating! 💪
-```
-
 ### Final Thoughts
 
 1.  **CSS transforms HTML:** From skeleton to beautiful website in one day
@@ -965,6 +840,37 @@ _You didn’t just learn CSS, you built a portfolio that rivals professional tem
 Take a moment to appreciate what you’ve accomplished. Four days ago, you had zero web development experience. Now you have a beautiful, responsive portfolio website.
 
 **Next up:** We make it interactive with JavaScript. Get ready for smooth scrolling, animated progress bars, and form validation! 🚀
+
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+✅ **04 — CSS:** Styling And Responsive Design
+
+⬜ **05 — JavaScript:** Interactive Web Development
+
+⬜ **06 — Python:** Backend Logic And Cloud Automation
+
+⬜ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
 
 
 Additional Resources
