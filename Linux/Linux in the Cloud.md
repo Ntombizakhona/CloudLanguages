@@ -985,66 +985,6 @@ main() {
 main
 ```
 
-12 | Update Your Learning Journal
----------------------------------
-
-```
-## Day 8: Linux - The Cloud Operating System
-### What I Learned:
-- Linux is the foundation of cloud computing (90%+ of cloud infrastructure)
-- Command line navigation and file operations
-- File permissions and security management
-- Process and service management with systemd
-- Package management with apt
-- Firewall configuration with UFW
-- Docker containers for application deployment
-- Shell scripting for automation
-### Portfolio Deployment Accomplished:
-- Launched Ubuntu EC2 instance on AWS
-- Configured Nginx as reverse proxy
-- Deployed Flask backend as systemd service
-- Connected frontend (HTML/CSS/JS) with Python API
-- Created automated deployment script
-- Secured server with UFW firewall
-### Linux Commands Mastered:
-- Navigation: pwd, ls, cd, mkdir, rm
-- Files: cat, less, head, tail, grep
-- Permissions: chmod, chown
-- Processes: ps, top, kill, systemctl
-- Packages: apt update, apt install
-- Network: ip addr, curl, ssh, scp
-- Docker: run, build, ps, logs
-### My Portfolio is Now:
-- ✅ Live on the internet!
-- ✅ Running on Ubuntu 22.04 LTS
-- ✅ Served by Nginx web server
-- ✅ Powered by Python Flask backend
-- ✅ Deployed with automated scripts
-```
-
-Portfolio Project Progress Tracker
-----------------------------------
-
-✅ **Completed:** English, Mathematics, HTML, CSS, JavaScript, Python, Git, Linux
-✅ **Milestone:** Portfolio deployed to the cloud! 🚀
-⬜ **Next:** SQL for database integration
-⬜ **Coming:** Kubernetes for container orchestration
-
-```
-Portfolio Journey:
-┌────────────────────────────────────────────────────────────────┐
-│ ✅ English      → Technical communication                      │
-│ ✅ Mathematics  → Logic and problem-solving                    │
-│ ✅ HTML         → Portfolio structure                          │
-│ ✅ CSS          → Professional styling                         │
-│ ✅ JavaScript   → Interactive features                         │
-│ ✅ Python       → Backend API                                  │
-│ ✅ Git          → Version control & GitHub                     │
-│ ✅ Linux        → DEPLOYED TO THE CLOUD! 🎉                    │  
-│ ⬜ SQL          → Database integration (next!)                 │
-│ ⬜ Kubernetes   → Container orchestration                      │
-└────────────────────────────────────────────────────────────────┘
-```
 
 ### Final Thoughts
 
@@ -1064,6 +1004,39 @@ Concluding Remarks
 ------------------
 
 Linux is vast. What we covered is the foundation, but there’s always more to learn.
+
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+✅ **04 — CSS:** Styling And Responsive Design
+
+✅ **05 — JavaScript:** Interactive Web Development
+
+✅ **06 — Python:** Backend Logic And Cloud Automation
+
+✅ **07 — Git:** Version Control And Deployment
+
+✅ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
+
+---
 
 Additional Resources
 --------------------
