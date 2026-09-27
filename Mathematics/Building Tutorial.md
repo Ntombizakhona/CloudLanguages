@@ -172,69 +172,6 @@ IF screen width ≤ 768px THEN apply mobile styles
 ELSE IF screen width ≤ 1024px THEN apply tablet styles
 ELSE apply desktop styles
 ```
-
-### Step 06: Update Your Learning Journal (With Math!)
-
-**Add this to your learning-journal.md**
-
-```
-## Day 2: Mathematics: Logic and Problem Solving
-### Date: [Today's Date]
-### What I Learned:
-#### Mathematical Concepts:
-1. **Linear Equations (y = mx + c)**
-   - Applied to AWS cost calculator: `Cost = (pricePerGB × storage) + baseFee`
-   - Learned how slopes represent rates of change in programming
-   
-2. **Boolean Logic (AND, OR, NOT)**
-   - Everything in computing is TRUE or FALSE
-   - Created truth tables for authentication logic
-   - Applied to portfolio content display decisions
-   
-3. **Percentages and Ratios**
-   - Resource utilization: `(used / total) × 100 = percentage`
-   - Design ratios: 60:30:10 color scheme
-   - Content distribution across portfolio sections
-#### Problem-Solving Techniques:
-1. **Algorithms**: Step-by-step recipes for solving problems
-   - Created coffee-making algorithm
-   - Designed AWS deployment algorithm
-   - Built user journey algorithm for portfolio
-2. **Decomposition**: Breaking big problems into small pieces
-   - "Build portfolio" → 5 major components → 20+ subtasks
-   - Calculated total project time: 15 hours
-   - Made intimidating project feel achievable!
-3. **Pattern Recognition**: Seeing similarities across different problems
-   - Recognized authentication pattern (AWS, GitHub, portfolio form)
-   - Identified CRUD pattern (Create, Read, Update, Delete)
-   - Same logic applies to different technologies
-### Portfolio Planning Progress:
-✅ **Structure Defined:**
-- Header (15%), About (20%), Skills (25%), Projects (30%), Contact (10%)
-✅ **User Journey Mapped:**
-- Visitor lands → Views hero → Reads about → Sees skills → Checks projects → Contacts
-✅ **Learning Timeline Calculated:**
-- Total hours needed: 152 hours
-- At 2 hours/day: 76 days (~11 weeks)
-- Realistic and achievable goal set!
-### Mathematical Problems I Solved Today:
-1. **AWS Cost Calculation:**
-```javascript
-function calculateCost(storageGB) {
-    return (0.023 * storageGB) + 5;
-}
-// 100GB = $7.30/month
-2. **CPU Usage Alert:**
-function checkUsage(used, total) {
-    const percent = (used / total) * 100;
-    return percent > 80 ? "WARNING" : "NORMAL";
-}
-3. Learning Time Projection:
-Total hours = Σ(topic hours × complexity)
-= 152 hours
-= 11 weeks at 2hrs/day
-```
-
 ### ⛔ End of Building Tutorial⛔
 
 
