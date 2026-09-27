@@ -727,7 +727,36 @@ Take a moment to appreciate what you’ve accomplished. Three days ago, you star
 
 **Next up:** We’ll make it beautiful with CSS. Get ready to see your portfolio transform! 🚀
 
-![HTML — The Markup Language](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JVw6gXzNYpnvlkyqXWdaNA.png)
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+⬜ **04 — CSS:** Styling And Responsive Design
+
+⬜ **05 — JavaScript:** Interactive Web Development
+
+⬜ **06 — Python:** Backend Logic And Cloud Automation
+
+⬜ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
 
 Additional Resources
 --------------------
