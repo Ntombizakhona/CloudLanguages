@@ -4,28 +4,6 @@ JavaScript in the Cloud
 The Scripting Language
 ----------------------
 
-[![Ntombizakhona Mabaso](https://miro.medium.com/v2/resize:fill:64:64/1*K68FRjToMUQMoFrehLks0w.jpeg)](https://medium.com/?source=post_page---byline--6dd068fecb77---------------------------------------)
-
-[Ntombizakhona Mabaso](https://medium.com/?source=post_page---byline--6dd068fecb77---------------------------------------)
-
-21 min read
-
-·
-
-Just now
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F6dd068fecb77&operation=register&redirect=https%3A%2F%2Fntombizakhona.medium.com%2Fjavascript-in-the-cloud-6dd068fecb77&user=Ntombizakhona+Mabaso&userId=2b5644641b1b&source=---header_actions--6dd068fecb77---------------------clap_footer------------------)
-
---
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6dd068fecb77&operation=register&redirect=https%3A%2F%2Fntombizakhona.medium.com%2Fjavascript-in-the-cloud-6dd068fecb77&source=---header_actions--6dd068fecb77---------------------bookmark_footer------------------)
-
-Listen
-
-Share
-
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xbXqMI4k67eSRyABp_vIfQ@2x.jpeg)
-
 You’ve built the _skeleton_ ([HTML](ntombizakhona.medium.com/html-in-the-cloud-dc23a04bfe51)) and made it _beautiful_ ([CSS](https://medium.com/css-8c98ee3ec762)). Now it’s time to make it think and react.
 
 **JavaScript** is the only programming language that runs in web browsers. It’s what makes websites interactive, dynamic, and intelligent.
@@ -815,118 +793,6 @@ console.log(calculateCost(100)); // $7.30
 
 _See the pattern?_ **Math → JavaScript → Cloud Applications**
 
-13 | Update Your Learning Journal
----------------------------------
-
-```
-## Day 5: JavaScript - Interactive Web Development
-### Date: [Today's Date]
-### What I Learned:
-#### JavaScript Fundamentals:
-- **Variables:** `let` (mutable), `const` (immutable), avoid `var`
-- **Data types:** Strings, numbers, booleans, arrays, objects
-- **Operators:** Arithmetic (+, -, *, /), comparison (===, !==), logical (&&, ||, !)
-- **Functions:** Regular and arrow syntax, parameters, return values
-- **Control flow:** if/else, ternary operators, switch statements
-- **Loops:** for, for...of, while loops
-#### DOM Manipulation:
-- **Selecting elements:** querySelector, querySelectorAll
-- **Changing content:** textContent, innerHTML, style, classList
-- **Creating elements:** createElement, appendChild
-- **Modifying attributes:** src, alt, href, data-*
-#### Event Handling:
-- **Click events:** Button clicks, navigation links
-- **Form events:** Submit, input, blur, focus
-- **Scroll events:** Window scroll position, scroll-based animations
-- **Mouse events:** mouseenter, mouseleave, hover effects
-#### Asynchronous JavaScript:
-- **setTimeout:** Delayed execution (one-time)
-- **setInterval:** Repeated execution (periodic)
-- **Intersection Observer:** Detect when elements enter viewport
-- **Event-driven programming:** Code runs in response to user actions
-### Portfolio Transformation:
-**Before JavaScript (Day 4):**
-- Beautiful styling ✓
-- Responsive layout ✓
-- Static content (no interactivity) ✗
-**After JavaScript (Day 5):**
-- ✅ Smooth scrolling navigation (clicks scroll to sections)
-- ✅ Animated progress bars (trigger when visible)
-- ✅ Form validation (real-time error checking)
-- ✅ Success/error messages (user feedback)
-- ✅ Staggered skill animations (cards fade in sequentially)
-- ✅ Scroll-to-top button (appears after scrolling down)
-- ✅ Hover enhancements (interactive project cards)
-- ✅ Console branding (professional touches)
-### JavaScript Features Implemented:
-**1. Smooth Scrolling:**
-```javascript
-- Event listener on nav links
-- Prevents default jump behavior
-- Uses scrollIntoView() with smooth option
-- Updates URL without page refresh
-2. Progress Bar Animations:- Intersection Observer detects visibility
-- setInterval animates from 0% to target
-- Increments by 2% every 20ms
-- Stops at target percentage
-3. Form Validation:
-- Prevents default form submission
-- Validates name (min 2 characters)
-- Validates email (regex pattern)
-- Validates message (min 10 characters)
-- Shows success/error messages
-- Resets form on successful submission
-4. Scroll-to-Top Button
-- Created dynamically with JavaScript
-- Shows when scrolled > 500px
-- Smooth scroll to top on click
-- Hover scale effect
-Aha! Moments
-💡 JavaScript is math in action: algorithms, Boolean logic, linear equations!
-💡 Event listeners are like “if this happens, do that” - pure logic
-💡 Async programming lets multiple things happen at once
-💡 Observer pattern is genius — code runs automatically when conditions met
-💡 Small JavaScript files can add huge interactivity
-💡 Console.log is my debugging best friend
-Testing Completed:
-✅ Chrome DevTools console - no errors
-✅ All navigation links scroll smoothly
-✅ Progress bars animate correctly
-✅ Form validation catches all error cases
-✅ Form shows success message on valid submission
-✅ Scroll-to-top button appears/disappears correctly
-✅ Skill cards animate with stagger effect
-✅ Mobile responsiveness maintained
-✅ JavaScript file loads in < 50ms
-Performance:
-JavaScript file size: 15KB (unminified)
-Load time: < 50ms
-Animation frame rate: 50fps (smooth)
-No console errors: ✓
-No memory leaks: ✓
-Questions for Further Research:
-How to optimize JavaScript for production (minification)?
-What is the difference between var, let, and const in detail?
-How do JavaScript frameworks (React, Vue) improve development?
-What is the Event Loop and how does async really work?
-How to debug JavaScript effectively with breakpoints?
-Portfolio Status:
-Structure: ✅ Complete (HTML)
-Styling: ✅ Complete (CSS)
-Interactivity: ✅ Complete (JavaScript)
-Backend: ⏳ Next (Python)
-Deployment: 📅 Upcoming (AWS S3 + CloudFront)
-Skills Progress:
-English: 100% ✅
-Mathematics: 100% ✅
-HTML: 100% ✅
-CSS: 100% ✅
-JavaScript: 75% ⏳ (fundamentals mastered, advanced topics upcoming)
-Python: 0% 📅
-Remaining: 6 languages
-
-```
-
 ### Real-World Connections
 
 **AWS Lambda functions:** _JavaScript functions that run in cloud_
@@ -1018,7 +884,38 @@ You’ve learned three of the most important languages in web development. These
 
 **Next up:** 🐍 Python, the versatile language that powers backend services, automation scripts, data processing, and AWS Lambda functions. We’ll connect your beautiful frontend to powerful backend logic! 🐍🚀
 
-![JavaScript — The Scripting Language](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vndIxitIVuVMGMi7RKL7Ew.png)
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+✅ **04 — CSS:** Styling And Responsive Design
+
+✅ **05 — JavaScript:** Interactive Web Development
+
+⬜ **06 — Python:** Backend Logic And Cloud Automation
+
+⬜ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
+
+---
 
 Additional Resources
 --------------------
