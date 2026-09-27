@@ -793,7 +793,7 @@ git commit -m "Resolve merge conflict in navigation"
 10 | Update Your Learning Journal
 ---------------------------------
 
-Add this to your learning-journal.md (which is now README.md):
+**Add this (or something similar) to README.md**:
 
 ```
 ## Day 7: Git - Version Control and Deployment
@@ -855,21 +855,6 @@ Progress: 7/11 skills (63.6% of foundational languages!)
 4.  **GitHub Pages:** Free hosting for static websites
 5.  **GitHub Actions:** Automated workflows triggered by Git events
 
-Portfolio Project Progress Tracker:
------------------------------------
-
-✅ **Day 1:** English — _Technical communication_
-✅ **Day 2:** Mathematics — _Logic and algorithms_
-✅ **Day 3:** HTML — _Web structure_
-✅ **Day 4:** CSS — _Styling and layout_
-✅ **Day 5:** JavaScript — _Frontend interactivity_
-✅ **Day 6:** Python — _Backend logic and APIs_
-✅ **Day 7:** Git — _Version control and deployment_
-⬜ **Day 8:** Linux — _Command line and servers_
-⬜ **Day 9:** SQL — _Database management_
-⬜ **Day 10:** Kubernetes — _Container orchestration_
-⬜ **Day 11:** Java — _Enterprise applications_
-
 ### Final Thoughts
 
 1.  **Git is your safety net:** Every change is tracked and reversible
@@ -897,6 +882,39 @@ The foundation is complete:
 Next up: **Linux** — the operating system that powers the cloud. You’ll learn the command line skills that every cloud engineer needs.
 
 Keep the momentum going! 💪☁️🚀
+
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+✅ **03 — HTML:** Web Structure And Semantic Markup
+
+✅ **04 — CSS:** Styling And Responsive Design
+
+✅ **05 — JavaScript:** Interactive Web Development
+
+✅ **06 — Python:** Backend Logic And Cloud Automation
+
+✅ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
+
+---
 
 
 Additional Resources
