@@ -621,6 +621,37 @@ In practice, you need precise representations: whether it’s a simple equation 
 
 **At the end of the day, representing systems algebraically and atomically is what makes them efficient, reliable, and built to last.**
 
+---
+
+Languages Portfolio Progress
+----------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+✅ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+⬜ **03 — HTML:** Web Structure And Semantic Markup
+
+⬜ **04 — CSS:** Styling And Responsive Design
+
+⬜ **05 — JavaScript:** Interactive Web Development
+
+⬜ **06 — Python:** Backend Logic And Cloud Automation
+
+⬜ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
+
 
 Additional Resources
 --------------------
