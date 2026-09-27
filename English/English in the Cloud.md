@@ -408,8 +408,62 @@ Finally, let me emphasize: **_I’m not suggesting you abandon your native langu
 
 I just want you to think in English.
 
+---
+**Languages Portfolio Progress**
+--------------------------------
+
+✅ **01 — English**: Technical Communication And Prompt Engineering
+
+⬜ **02 — Mathematics:** Logic And Problem-Solving Fundamentals
+
+⬜ **03 — HTML:** Web Structure And Semantic Markup
+
+⬜ **04 — CSS:** Styling And Responsive Design
+
+⬜ **05 — JavaScript:** Interactive Web Development
+
+⬜ **06 — Python:** Backend Logic And Cloud Automation
+
+⬜ **07 — Git:** Version Control And Deployment
+
+⬜ **08 — Linux:** The Cloud Operating System
+
+⬜ **09 — SQL:** Cloud Data Management
+
+⬜ **10 — Kubernetes:** Container Orchestration At Scale
+
+⬜ **11 — Java:** Enterprise Cloud Development
+
+⬜ **12 — Terraform:** Infrastructure as Code
+
+⬜ **Bonus — Agentic IDEs:** AI-Powered Cloud Development
 
 ---
+
+Additional Resources
+--------------------
+
+### [Cloud Concepts Simplified](https://partyrock.aws/u/ntombizakhona/Tm5M1uExN/Cloud-Concepts-Simplified)
+
+> The Cloud Simplified is an interactive app designed to help you understand the concepts of cloud computing in a fun and engaging way, by providing analogies, so amplify your understanding of the cloud in a more nuanced manner.
+
+### [Cloud Glossary](https://medium.com/list/cloud-glossary-528956a3c181)
+
+> Cloud Computing Simplified: A Cloud Glossary For Beginners
+
+### [Cloud Practitioner Exam Guide](https://dev.to/ntombizakhona/series/34703)
+
+> In a world where nearly every industry is moving toward cloud-first strategies, having a baseline understanding of these principles is no longer optional but essential.
+
+### [AI Practitioner Exam Guide](https://dev.to/ntombizakhona/series/34979)
+
+> Whether you’re an Executive, Developer, Engineer, or Project Manager, having a baseline understanding of AI principles is no longer a _nice to have_, it’s **absolutely essential.**
+
+### [PartyRock](http://partyrock.aws)
+
+> PartyRock is a space where you can build AI-generated apps in a playground powered by Amazon Bedrock.
+> 
+> It’s a fast and fun way to learn about generative AI.
 
 
 # The Original
